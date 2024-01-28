@@ -21,12 +21,12 @@
             <li>2 FRESADORAS CNC</li>
             <li>1 TORNO CNC</li>
             <li>1 ELECTROEROSIONADORA DE PENETRACIÓN</li>
-            <li>3 CORTADORAS LASER</li>            
+            <li>3 MAQUINAS DE CORTE POR LASER DE FIBRA PARA ACERO (3000 W) </li> 
+            <li>1 MAQUINA DE CORTE POR LASER DE FIBRA PARA ACERO CON EJE ROTATIVO PARA TUBO CUADRADO Y REDONDO (6000 W) </li>          
             <li>3 FRESADORAS CONVENCIONALES </li>            
             <li>1 TORNO CONVENCIONAL</li>
             <li>1 TROQUELADORA DE 25 TONELADAS</li>
             <li>TERMOFORMADO</li>
-            <li>CORTE POR PLASMA </li>
             <li>VACIADO DE URETANO </li>
             <li>SOLDADURA DE ACERO, ALUMINIO, E INOXIDABLE </li>
             <li>EQUIPO COMPLETO DE OXI-ACETILENO </li>

@@ -20,7 +20,7 @@
         <img class = "principal-logo" src = "https://cirotec.mx/img/cirotec_logo.png" ></img>
       </div>
       <div class ="col-sm-6 img-principal-col">
-        <a href = "https://cirotec.mx/files/certificado_iso_cirotec.pdf" target="_blank"><img class = "principal-logo" src = "https://cirotec.mx/img/logo_iso.jpg"></img></a>
+        <a href = "https://cirotec.mx/files/certificado_iso_cirotec.pdf" target="_blank"><img class = "principal-logo" src = "https://cirotec.mx/img/bsi.jpg"></img></a>
       </div>
     </div>
     <div class = "row">
@@ -31,7 +31,7 @@
     <div class = "row">
       <div class = "col-sm-2"></div>
       <div class ="col-sm-1">
-        <a href="#joyson" id="joyson" data-toggle="tooltip" data-placement="top" title="JOYSON"><img class = "logo-cliente"src = "https://cirotec.mx/img/joyson.jpg" alt = "logo de joyson"></a>
+        <a href="#joyson" id="joyson" data-toggle="tooltip" data-placement="top" title="JOYSON"><img class = "logo-cliente" src = "https://cirotec.mx/img/joyson.jpg" alt = "logo de joyson"></a>
       </div>
       <div class ="col-sm-1">
         <a href="#henniges" id="henniges" data-toggle="tooltip" data-placement="top" title="HENNIGES AUTOMOTIVE"><img class = "logo-cliente" src ="https://cirotec.mx/img/henniges.jpg" alt="logo de henniges"></a>
@@ -46,25 +46,13 @@
         <a href="#sumitomo" id="sumitomo" data-toggle="tooltip" data-placement="top" title="AUTOSISTEMAS DE TORREON SA DE CV (SUMITOMO)"><img class = "logo-cliente" src = "https://cirotec.mx/img/sumitomo.jpg" alt = "logo de sumitomo"></a>
       </div>
       <div class ="col-sm-1">
-        <a href="#cnc" id="cnc" data-toggle="tooltip" data-placement="top" title="CNC SUMINISTROS Y MAQUINADOS SA DE CV"><img class = "logo-cliente" src = "https://cirotec.mx/img/cncsuministros.jpg" alt = "logo de cnc suministros"></a>
-      </div>
-      <div class ="col-sm-1">
-        <a href="#woodcrafters" id="woodcrafters" data-toggle="tooltip" data-placement="top" title="WOODCRAFTERS"><img class = "logo-cliente" src = "https://cirotec.mx/img/woodcrafters.jpg" alt = "logo de woodcrafters"></a>
+        <a href="#milwaukee" id="milwaukee" data-toggle="tooltip" data-placement="top" title="MILWAUKEE"><img class = "logo-cliente" src = "https://cirotec.mx/img/milwaukee.jpg" alt = "logo de milwaukee"></a>
       </div>
     </div>
     <div class = "row">
       <div class = "col-sm-2"></div>
       <div class ="col-sm-1">
         <a href="#yazaki" id="yazaki" data-toggle="tooltip" data-placement="top" title="YAZAKI"><img class = "logo-cliente" src = "https://cirotec.mx/img/yazaki.jpg" alt = "logo de yazaki"></a>
-      </div>
-      <div class ="col-sm-1">
-        <a href="#samm" id="samm" data-toggle="tooltip" data-placement="top" title="SAMM"><img class = "logo-cliente" src = "https://cirotec.mx/img/samm.jpg" alt = "logo de samm"></a>
-      </div>
-      <div class ="col-sm-1">
-        <a href="#trane" id="trane" data-toggle="tooltip" data-placement="top" title="TRANE"><img class = "logo-cliente" src = "https://cirotec.mx/img/trane.jpg" alt = "logo de trane"></a>
-      </div>
-      <div class ="col-sm-1">
-        <a href="#ingersoll" id="ingersoll" data-toggle="tooltip" data-placement="top" title="INGERSOL RAND"><img class = "logo-cliente" src = "https://cirotec.mx/img/ingersollrand.jpg" alt = "logo de ingersoll rand"></a>
       </div>
        <div class ="col-sm-1">
         <a href="#coca" id="coca" data-toggle="tooltip" data-placement="top" title="COCA COLA"><img class = "logo-cliente" src = "https://cirotec.mx/img/coca.jpg" alt = "logo de coca cola"></a>
@@ -73,10 +61,10 @@
         <a href="#mobis" id="mobis" data-toggle="tooltip" data-placement="top" title="HYUNDAI MOBIS"><img class = "logo-cliente" src = "https://cirotec.mx/img/mobis.jpg" alt = "logo de hyundai mobis"></a>
       </div>
       <div class ="col-sm-1">
-        <a href="#montiac" id="montiac" data-toggle="tooltip" data-placement="top" title="MONTIAC"><img class = "logo-cliente" src = "https://cirotec.mx/img/montiac.jpg" alt = "logo de montiac"></a>
+        <a href="#lincoln" id="lincoln" data-toggle="tooltip" data-placement="top" title="LINCOLN ELECTRIC"><img class = "logo-cliente" src = "https://cirotec.mx/img/lincoln.jpg" alt = "logo de lincoln"></a>
       </div>
       <div class ="col-sm-1">
-        <a href="#lincoln" id="lincoln" data-toggle="tooltip" data-placement="top" title="LINCOLN ELECTRIC"><img class = "logo-cliente" src = "https://cirotec.mx/img/lincoln.jpg" alt = "logo de lincoln"></a>
+        <a href="#sigrama" id="sigrama" data-toggle="tooltip" data-placement="top" title="INDUSTRIA SIGRAMA"><img class = "logo-cliente" src = "https://cirotec.mx/img/sigrama.jpg" alt = "logo de sigrama"></a>
       </div>
     </div>
     <?php include "footer.php"; ?>

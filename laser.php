@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <?php include "header.php"; ?>
-  <meta name="description" content="Departamento de corte y grabado laser de CIROTEC en Torreon.">
+  <meta name="description" content="Departamento de corte laser de CIROTEC en Torreon.">
   <title>CIROTEC - LASER</title>
 </head>
 <body>
@@ -11,13 +11,13 @@
   <div class = "container pagebody">
     <div class ="row">
       <div class ="col-md-12">        
-      <h1>CIRO-LASER</h1>   
+      <h1>CIRO-STEEL</h1>   
       </div>   
     </div>
     <div class = "row justificado"> 
       <div class ="col-md-12">  
         <p>
-        TAMBIÉN CONTAMOS CON SERVICIOS DE CORTE Y GRABADO LÁSER.
+        TAMBIÉN CONTAMOS CON SERVICIOS DE CORTE LASER DE ACERO. MÁQUINAS DE LASER DE FIBRA PARA ACEROS (6000W CON EJE ROTATIVO).
         </p>
       </div>
     </div>

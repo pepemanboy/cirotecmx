@@ -1,4 +1,4 @@
 <footer>
   <hr>
-  <p class = "footer-content">© CIROTEC 2019</p>
+  <p class = "footer-content">© CIROTEC 2024</p>
 </footer>
